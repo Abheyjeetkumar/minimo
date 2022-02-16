@@ -1,0 +1,142 @@
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #626262; 
+}
+
+/*common end*/
+/*header start*/
+    header{
+    	padding: 20px 0;
+    	border: 1px solid blue;
+    }
+   	    .container{
+   	    	margin: 0 auto;
+   	    	overflow: hidden;
+   	    	width: 90%;
+   	    	border: 1px solid;
+   	    }
+   	    .logo{
+   	    	margin-top: 11px;
+   	    	width: 15%;
+   	    	/*border: 1px solid;*/
+   	    	float: left;
+   	    }
+   	    .logo img{
+   	    	width: 100%;
+   	    }
+   	    .menu{
+   	    	width: 65%;
+   	    	/*border: 1px solid;*/
+   	    	float: right;
+   	    }
+   	    .menu ul {
+   	    	float: right;
+   	    }
+   	    .menu ul li {
+   	    	list-style: none;
+   	    	float: left;
+   	    }
+   	    .menu ul a {
+   	    	display: block;
+   	    	margin: 0 50px;
+   	    	padding: 4px 1px 3px;
+   	    	color: #626262;
+   	    	text-transform:uppercase ;
+   	    	text-decoration: none;
+   	    	border-bottom: 1px solid transparent;
+   	    	transition: .3s; 
+   	    }
+        .menu ul li:last-child a{
+        	margin-right: 0 ;
+        }
+        
+   	    .menu ul li a:hover {
+            border-bottom: 1px solid #626262;
+   	    }
+
+     /*banner start*/
+            .banner{}
+            .b_img{}
+            .b_img img {
+            width: 100%;
+            }
+           
+            
+     /*banner end*/
+
+     /*perfect star*/
+     .perfect{
+     	padding-top: 100px;
+     	padding-bottom: 100px;
+     	border: 1px solid blue;
+     }
+     .contaienr2{
+     	overflow: hidden;
+     	margin: 0 auto;
+     	width: 80%;
+     	border: 1px solid red ;
+     }
+     .p_content{}
+     .c_light{
+     	margin: 0;
+     	font-family: 'Ubuntu', sans-serif;
+     	font-size: 14px;
+     	font-weight: 300;
+     	color: #b4ad9e;
+     	text-transform: uppercase;
+     }
+     c_h1{
+     	margin-top: 20px;
+     	margin-bottom: 30px;
+     	font-size: 30px;
+     	font-weight: 400;
+     }
+     c_text{
+     	margin: 0;
+     	line-height: 25px;
+     }
+     .mb_40{
+     	margin-bottom: 40px;
+     }
+     p{}
+     /*perfect end*/
+     /.blog{}
+      .blogs{}
+      .single{
+      	float: left;
+      	width: 45%;
+      	border: 1px solid green;
+      }
+      .single: nth-child(even){
+      	margin-left: 64px;
+      }
+      .s_img{
+      	margin-bottom: 25px;
+      }
+      .s_img img{
+      	width: 100%;
+       }
+     /*blog end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

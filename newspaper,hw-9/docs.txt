@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+color
+     black-000000
+     ass-626262
+    body-b4ad9e`
+
+
+
+
+
+body
+    font-family
+    font-size
+    font-weight
+    color
+    text-transform
+    text-align
+
+
+fonts 
+     inconsoloeta reg
+     playfair display reg
+     ubuntu light
+     playfair display reg
+     ubuntu light
+font-download
+     cdn
+     download[bset-download kore use kora]
+
+     ui-means user interface
+     <i><i>=italic korbe
+     <em><em>=empercise korbe means browser e jor dibe means searse ingin e optimise korbe
+     SEO
+     h1-h6
+     p
+     img-altr-name-properti
+     strong
+     em
+     meta
+     
+
+
+
+
+
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+
+
+     font-family: 'Playfair Display', serif;
+
+
+     font-family: 'Playfair Display', serif;
+     font-family: 'Ubuntu', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
